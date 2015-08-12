@@ -1,9 +1,0 @@
-<span>Peter</span>Hola Peter 
-<span>Peter</span>Hello, Peter 
-<span>Peter</span>seriously 
-<span>louis</span>Hi Mini 
-<span>washinton</span>Testing for the sake of experience 
-<span>test-csula1</span>This is a csula testing for this chatting box, then I need to figure out, how to implement a log out
-<span>User5</span>chrome testing1 
-<span>User5</span>chrome testing 2 
-<span>user 5</span>about anything 
