@@ -1,0 +1,2 @@
+[19-Mar-2015 18:42:34 UTC] PHP Warning:  require_once(/home/holaspot/public_html/trade/wp-content/plugins/jetpack/class.jetpack-debugger.php): failed to open stream: No such file or directory in /home/holaspot/public_html/trade/wp-content/plugins/jetpack/jetpack.php on line 43
+[19-Mar-2015 18:42:34 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/holaspot/public_html/trade/wp-content/plugins/jetpack/class.jetpack-debugger.php' (include_path='.:/opt/php54/lib/php') in /home/holaspot/public_html/trade/wp-content/plugins/jetpack/jetpack.php on line 43
